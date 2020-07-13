@@ -1,0 +1,137 @@
+{ 
+	"Company1": {
+					"companyName": "Рога",
+					"companyFullName": "ООО 'Рога'",
+					"registrationDate": "20.05.2000",
+					"legalAddress": "Москва, ул. Ленина, д. 1",
+					"actualAddress": "Москва, ул. Пушкина, д. 10",
+					"mailingAddress": "Москва, ш. Энтузиастов, д. 300",
+					"centralPhone": "+7(495) 589-02-00",
+					"officePhone": "+7(985) 333-02-20",
+					"fax": "+7(499) 333-34-56",
+					"INN": 7736207543,
+					"OGRN": 1027700229193,
+					"stocks": [
+								{
+									"stockName": "Apple Inc",
+									"id": "US0378331005",
+									"code": "AAPL",
+									"count": "200",
+									"price": "50",
+									"currency": "USD",
+									"validity": "20.08.2020"
+								},
+								{
+									"stockName": "Google Inc",
+									"id": "US02079K1079",
+									"code": "GOOG",
+									"count": "300",
+									"price": "20",
+									"currency": "USD",
+									"validity": "01.07.2020"
+								},
+								{
+									"stockName": "Tesla Inc",
+									"id": "US88160R1014",
+									"code": "TSLA",
+									"count": "500",
+									"price": "40",
+									"currency": "USD",
+									"validity": "12.07.2020"
+								},
+								{
+									"stockName": "Газпром ПАО",
+									"id": "RU0007661625",
+									"code": "GAZP",
+									"count": "600",
+									"price": "10",
+									"currency": "RUB",
+									"validity": "01.01.2021"
+								}
+							]
+				},
+	"Company2": {
+					"companyName": "Копыта",
+					"companyFullName": "ООО 'Копыта'",
+					"registrationDate": "31.09.2005",
+					"legalAddress": "Санкт-Петербург, ул. Кадырова, д. 1",
+					"actualAddress": "Москва, ул. Колотушкина, д. 50",
+					"mailingAddress": "Москва, ш. Варшавское, д. 500",
+					"centralPhone": "+7(495) 779-77-00",
+					"officePhone": "+7(926) 645-34-34",
+					"fax": "+7(499) 645-66-98",
+					"INN": 7736658543,
+					"OGRN": 1027700227893,
+					"stocks": [
+								{
+									"stockName": "Яндекс Н.В.",
+									"id": "NL0009805522",
+									"code": "YNDX",
+									"count": "600",
+									"price": "25",
+									"currency": "RUB",
+									"validity": "01.01.2019"
+								},
+								{
+									"stockName": "Mail.ru Group Ltd",
+									"id": "US5603172082",
+									"code": "MAILRq",
+									"count": "345",
+									"price": "43",
+									"currency": "USD",
+									"validity": "20.01.2019"
+								},
+								{
+									"stockName": "Microsoft Corporation",
+									"id": "US5949181045",
+									"code": "MSFT",
+									"count": "758",
+									"price": "60",
+									"currency": "USD",
+									"validity": "30.09.2020"
+								}
+							]
+				},
+	"Company3": {
+					"companyName": "Рога и Копыта",
+					"companyFullName": "ООО 'Рога и Копыта'",
+					"registrationDate": "05.12.2010",
+					"legalAddress": "Омск, ул. Ясная, д. 100",
+					"actualAddress": "Рязань, ул. Большая, д. 40",
+					"mailingAddress": "Москва, Ленинское ш., д. 125",
+					"centralPhone": "+7(495) 679-66-98",
+					"officePhone": "+7(901) 876-24-45",
+					"fax": "+7(499) 655-98-56",
+					"INN": 7795158543,
+					"OGRN": 1027702569893,
+					"stocks": [
+								{
+									"stockName": "Bayerische Motoren Werke AG",
+									"id": "DE0005190003",
+									"code": "BMWG",
+									"count": "234",
+									"price": "56",
+									"currency": "EUR",
+									"validity": "30.10.2020"
+								},
+								{
+									"stockName": "Роснефть ПАО",
+									"id": "RU000A0J2Q06",
+									"code": "ROSN",
+									"count": "87",
+									"price": "23",
+									"currency": "RUB",
+									"validity": "30.07.2020"
+								},
+								{
+									"stockName": "Netflix Inc",
+									"id": "US64110L1061",
+									"code": "NFLX",
+									"count": "324",
+									"price": "67",
+									"currency": "USD",
+									"validity": "30.05.2020"
+								}
+							]
+				}
+}
